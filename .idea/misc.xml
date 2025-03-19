@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/multi_process/pom.xml" />
         <option value="$PROJECT_DIR$/data_structure/pom.xml" />
+        <option value="$PROJECT_DIR$/spring/pom.xml" />
       </list>
     </option>
   </component>
